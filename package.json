@@ -15,7 +15,7 @@
     "build:dark": "FORCE_THEME=dark astro build"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "^5.1.4",
+    "@astrojs/tailwind": "6.0.0",
     "@fontsource/poppins": "^5.1.1",
     "@netlify/plugin-lighthouse": "^6.0.1",
     "@playwright/test": "^1.49.1",
@@ -31,6 +31,15 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "astro": "^5.1.6"
+    "astro": "5.5.2"
+  },
+  "packageManager": "yarn@4.7.0",
+  "dependenciesMeta": {
+    "puppeteer-core@13.7.0": {
+      "unplugged": true
+    },
+    "puppeteer-core@18.2.1": {
+      "unplugged": true
+    }
   }
 }

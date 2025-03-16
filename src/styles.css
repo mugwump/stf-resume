@@ -21,3 +21,12 @@ article.minimalist {
     sm:px-24 sm:py-14
     lg:max-w-4xl;
 }
+
+
+
+div.work-description { 
+  margin-left: 1em; 
+}
+div.year{
+  margin-left: -2em;
+}
