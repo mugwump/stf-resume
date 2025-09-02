@@ -15,7 +15,7 @@
     "build:dark": "FORCE_THEME=dark astro build"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "6.0.0",
+    "@astrojs/tailwind": "^6.0.2",
     "@fontsource/poppins": "^5.1.1",
     "@netlify/plugin-lighthouse": "^6.0.1",
     "@playwright/test": "^1.49.1",
@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "astro": "5.5.2"
+    "astro": "^5.13.5"
   },
   "packageManager": "yarn@4.7.0",
   "dependenciesMeta": {
