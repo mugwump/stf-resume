@@ -7,7 +7,7 @@ pdfLink: resume-stefan_frank.pdf
 
 # Stefan Frank
 
-<img src="/profile_image_stefan_frank.jpg" alt="Stefan Frank" style="float: right; margin-left: 10px;padding-right: -70px" width="35%"/>
+<img src="/profile_image_stefan_frank.jpg" alt="Stefan Frank" class="profile-image" style="float: right; margin-left: 10px;padding-right: -70px" width="35%"/>
 
 **Developer**
 
@@ -18,6 +18,7 @@ Heidelberg, Germany | s.frank@vierundsechzig.de | http://www.vierundsechzig.de
 Currently employed as Development-Lead at [Scribos](https://www.scribos.com).
 
 ---
+
 # Work Experience
 
 # 2018 - current
@@ -26,13 +27,13 @@ Currently employed as Development-Lead at [Scribos](https://www.scribos.com).
 
 Development of Software for Brand Protection Systems, Development-Lead at [Scribos](https://www.scribos.com), Heidelberg.
 
-## react, material UI, vite, react-testing-framework, node/js, graphql, apollo, Django/Python, mysql, ElasticSearch, docker
+## react, typescript, material UI, vite, react-testing-framework, node/js, OpenAPI, tanstack-query/openapi-react-query, graphql, apollo, Django/Python, swagger/openAPI, mysql, ElasticSearch, docker
 
 ---
 
 # 2014-2018
 
-### [Soundtaxi](https://soundtaxi.com) 
+### [Soundtaxi](https://soundtaxi.com)
 
 Development-Lead, Software Architecture for a Music-Licensing-System for [Soundtaxi](https://soundtaxi.com).
 
@@ -82,23 +83,26 @@ Development/update of the platform lehrbuch-psychologie/lehrbuch-medizin.de/lehr
 
 ## Rails3, jquery, backbone.js, mongoDB(mongoid), devise, heroku
 
-### Heidelberger Druck 
+### Heidelberger Druck
 
 Refactoring of the build-infrastructure to mvn/archiva for the project "Prinect-Online"
 
 ## mvn, hudson, Archiva, seam/EJB3, Richfaces, cas
 
-### Springer Verlag, Heidelberg 
-Development of SpringerScore for Biology, an E-Learning-System for Spektrum Verlag/Biologie 
+### Springer Verlag, Heidelberg
+
+Development of SpringerScore for Biology, an E-Learning-System for Spektrum Verlag/Biologie
 
 ## Ruby, Rails 3.0, rspec, cucumber, jquery, mongoDB, devise, pdfkit, mongo_mapper
 
 ### Abbott/Xmachina
+
 Consulting and Development of several Intranet-Applications
 
 ### Spring, Hibernate, Tomcat, maven, Oracle, iText, CruiseControl
 
-### Trainings 
+### Trainings
+
 UML for Analysts for OIO(Orientation in Objects), Mannheim, Developing E-Products for Editors for Springer Verlag, Heidelberg
 
 ---
@@ -108,28 +112,33 @@ UML for Analysts for OIO(Orientation in Objects), Mannheim, Developing E-Product
 </div>
 
 ### Springer Verlag, Heidelberg
-Development of Score for Medicine, an E-Learning-System for Students of Medicine, Springer Verlag. 
+
+Development of Score for Medicine, an E-Learning-System for Students of Medicine, Springer Verlag.
 
 Migration of the E-Learning-platform lehrbuch-psychologie.de to Rails
 
 ## rails2.2, test-unit, mysql, jquery, rails 2.3, engineyard, delayed_job, prawn, sunspot/solr, haml, sass, compass, mysql, gwt
 
 ---
+
 <div class="year">
 <h1>2007 - 2008</h1> 
 </div>
 
 ### Springer-Verlag, Heidelberg
+
 E-Learning-Application for students of Medicine("Das Erste")
 
 Development of an e-learning-platform for Springer("lehrbuch-medizin.de, lehrbuch-psychologie.de").
+
 ## JBoss, Seam/EJB3, hibernate, jsf, DWR, Richfaces, mysql
 
-### DKFZ, Omero (Open Microscopy Environment) 
+### DKFZ, Omero (Open Microscopy Environment)
 
 Architecture&Development of the 5D-Image-database OMERO for DKFZ and
 University of Dundee): JBoss, Spring, Hibernate, Swing, ant, postgres
 Development of a grid-infrastructure for the automated analysis of microscopic images at iBIOS/DKFZ
+
 ## Globus Toolkit, GSI-Security, Java2D, JAI, JOGL
 
 ---
@@ -139,7 +148,8 @@ Development of a grid-infrastructure for the automated analysis of microscopic i
 </div>
 
 ### SAP
-BusinessDirectory für den B2B-Marktplatz SupplyOn(Bosch) im Auftrag der SAP AG, Walldorf. 
+
+BusinessDirectory für den B2B-Marktplatz SupplyOn(Bosch) im Auftrag der SAP AG, Walldorf.
 
 ## Websphere, Oracle, DB2, jsp/servlets, EJB2.1
 
@@ -151,7 +161,7 @@ Statistics-portal for Direktorium für Vollblutzucht und Rennen
 
 ### Schneider (Logistics)
 
-Development Lead/Consulting for a JEE-based logistics-system for Schneider/e-velopment 
+Development Lead/Consulting for a JEE-based logistics-system for Schneider/e-velopment
 
 ## Weblogic, MS-SQL, JMS
 
@@ -173,7 +183,8 @@ Techniker Krankenkasse(IMS DB, JCL, MVS, COBOL), RDM-Immonet(debis/T-Systems, Ja
 
 Studied Mathematics and Philosophy at Ruhr-Universität Bochum, graduated with a work Algebraic Topology (1.7 (sehr gut))
 
-## Abitur 
+## Abitur
+
 Abitur(1.7), Otto-Hahn-Gymnasium Herne
 
 ---
@@ -182,13 +193,12 @@ Abitur(1.7), Otto-Hahn-Gymnasium Herne
 <h1>Other</h1>
 </div>
 
-## Photography 
+## Photography
 
 Studied Photography at Ostkreuzschule, Berlin (2022-2024), graduated with a work on Politically motivated Crime in Germany; Exhibitions in Berlin, Heidelberg, Athens, Budapest. Working as a Photography-Tutor for [Strudelmedia Live](https://strudelmedialive.com/), hosting a Videochannel on Photobooks (["The Photobook Show"](https://www.youtube.com/playlist?list=PL8dcnOMAkMWTyTspfWSlp5xneZJzwlcHM))
 
-
 ## Languages
 
-| German         | English     | French     |     
-| -------------- | ----------- |------------|
-| Native speaker | Proficiency | basic communication skills / working knowledge|
+| German         | English     | French                                         |
+| -------------- | ----------- | ---------------------------------------------- |
+| Native speaker | Proficiency | basic communication skills / working knowledge |
